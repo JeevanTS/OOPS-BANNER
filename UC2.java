@@ -1,5 +1,38 @@
-public class UC1{
-    public static void main (String[] args){
-        System.out.println("OOPS");
+class bannerapp{
+    public static void main(String[] args){
+        System.out.println("\n");
+        System.out.println("   *   *   *    ");
+        System.out.println("   *       * ");
+        System.out.println("   *       * ");
+        System.out.println("   *   *   *   ");
+
+        System.out.println("\n");
+
+        System.out.println("   *   *   *    ");
+        System.out.println("   *       * ");
+        System.out.println("   *       * ");
+        System.out.println("   *   *   *   ");
+
+        System.out.println("\n");
+        System.out.println("   *    *     ");
+        System.out.println("   *        * ");
+        System.out.println("   *        * ");
+        System.out.println("   *    *     ");
+
+        System.out.println("\n");
+        System.out.println("   *    *     ");
+        System.out.println("   *        * ");
+        System.out.println("   *        * ");
+        System.out.println("   *    *     ");
+        System.out.println("   *");
+        System.out.println("   *");
+        System.out.println("   *");
+
+
+
+
+        System.out.println("banner app complete"        );
+        
+    
     }
 }
